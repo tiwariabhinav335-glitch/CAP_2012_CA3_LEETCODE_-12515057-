@@ -1,3 +1,4 @@
+// LeetCode provides the ListNode definition
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
